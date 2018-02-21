@@ -24,3 +24,7 @@ Matplotlib is the workhorse of visualization in Python and underlies all other m
 * Choropleths
 7. Matplotlib general concepts and philosophies
 8. Seaborn fundamentals and how it improves on matplotlib
+
+# Contact
+
+Bruno Gonçalves [[web]](http://www.bgoncalves.com) [[email]](mailto:bgoncalves@gmail.com) [[twitter]](https://twitter.com/bgoncalves)
