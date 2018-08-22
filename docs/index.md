@@ -15,12 +15,12 @@ Matplotlib is the workhorse of visualization in Python and underlies all other m
    * Scatter plots
    * Line charts
    * Bar charts
+   * Pie charts
    * Bubble plots
    * Pie charts
-   * Heatmaps
-   * Choropleths
+   * Images
 * Matplotlib general concepts and philosophies
-* Seaborn fundamentals and how it improves on matplotlib
+* Matplotlib implementation of each char type.
 
 # Contact
 
